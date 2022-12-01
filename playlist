@@ -226,6 +226,116 @@ https://liveaneviadev.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
 #EXTINF:-1  tvg-name="NICKELODEON" tvg-id="" tvg-logo="https://i.imgur.com/fHWRtqI.jpg" group-title="TV KIDS" :http-referrer="",NICKELODEON
 https://liveaneviadev.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 
+/////////////ISLAMI//////////////////
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXNR11I3mKBd9nmDyKfYMhyn8gbront9peSQ&usqp=CAU" group-title="Islami",Muslim TV
+https://liveanevia.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTypeZFhnUjwicMkNFGc4YTwsb_b-La2Iq0Dg&usqp=CAU" group-title="Islami",Madani TV
+https://stream.asianastream.com/madani/ngrp:madanitv_all/chunklist_w1026780574_b5096000.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tv9_small.png?v=2.0.0.13" group-title="Islami",TV9
+https://liveanevia.mncnow.id/live/eds/TV9/sa_dash_vmx/TV9.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-0 tvg-name="TV" tvg-logo="https://images.useetv.com/logo_muhammadiyahtv_small1.png?v=2.0.0.13" group-title="Islami", TV Muhammadiyah
+https://liveanevia.mncnow.id/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd
+
+#EXTINF:-0 tvg-name="TV" tvg-logo="https://images.useetv.com/logo_tvmui_small.png?v=2.0.0.13" group-title="Islami", TV MUI
+https://mui.siar.us/mui/live/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_daaitv_small1.png?v=2.0.0.13" group-title="Islami",DAAI TV
+http://rr2.dens.tv/s/s13/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_mqtv_small1.png?v=2.0.0.13" group-title="Islami",MQTV
+https://5bf7b725107e5.streamlock.net/mqtv/mqtv/chunklist_w24469439.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_rodjatv_small1.png?v=2.0.0.13" group-title="Islami", Rodja TV
+http://rr2.dens.tv/s/s14/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=RodjaTV
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_rodjatv_small1.png?v=2.0.0.13" group-title="Islami", Rodja TV
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(6f7158e4-f151-45dd-874f-e02c15c7cd4b)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19505876_ico.png?ts=1654806114" group-title="Islami",Surau TV
+https://h1.intechmedia.net/intech/ch3.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH7uQZecouhReBstSv_YqfQtKjFVWBTXUHSA&usqp=CAU" group-title="Islami",Ufa TV
+https://h1.intechmedia.net/intech/ch27.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs6cqMMTSZva1xS2b8G6TeRsyFzISFCAgang&usqp=CAU" group-title="Islami",Bina Madani TV
+https://h1.intechmedia.net/intech/ch20.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfDFSD2RmWbYUPZndR2zQtpMDY54ywt8gjlw&usqp=CAU"group-title="Islami", RadioKita TV
+https://h1.intechmedia.net/intech/ch16.m3u8
+
+#EXTINF:-114 group-title="Islami" tvg-logo="https://live.artvisi.or.id/logo/muadztv.png",Muadz TV
+https://h1.intechmedia.net/intech/ch5.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN7lbl9myEr5-Fnc9zFhfqjWvQ4WV_x2Zk6g&usqp=CAU" group-title="Islami",Al Bahjah TV
+https://h1.intechmedia.net/intech/ch64.m3u8
+
+#EXTINF:-100 group-title="Islami" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD3jh08jqLLTCWlIz-ex69NNhI0L5fwilC3Q&usqp=CAU",Rasyaad TV
+https://h1.intechmedia.net/intech/ch6.m3u8
+
+#EXTINF:-100 group-title="Islami" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/medstv.jpg",MEDS TV
+https://h1.intechmedia.net/intech/ch23.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_mtatv_small1.png?v=2.0.0.13" group-title="Islami", MTA TV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/05.m3u8?5
+
+#EXTINF:-104 group-title="Islami" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ashiiltv.png",Ashiil TV
+https://h1.intechmedia.net/intech/ch2.m3u8
+
+#EXTINF:-105 group-title="Islami" tvg-logo="http://live.artvisi.or.id/logo/alimantv.png",AL Iman TV
+https://h1.intechmedia.net/intech/ch9.m3u8
+
+#EXTINF:-106 group-title="Islami" tvg-logo="https://live.artvisi.or.id/logo/insantv.png",Insan TV
+https://h1.intechmedia.net/intech/ch1.m3u8
+
+#EXTINF:-107 group-title="Islami" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ahsan.png"",Ahsan TV
+https://h1.intechmedia.net/intech/ch4.m3u8
+
+#EXTINF:-109 group-title="Islami" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/HIJRAH TV.jpg", Hijrah TV
+https://h1.intechmedia.net/intech/ch8.m3u8
+
+#EXTINF:-110 group-title="Islami" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/sjp tv.png",SJP TV
+https://h1.intechmedia.net/intech/ch17.m3u8
+
+#EXTINF:-111 group-title="Islami" tvg-logo="http://live.artvisi.or.id/logo/niagatv.png",Niaga TV
+https://h1.intechmedia.net/intech/ch10.m3u8
+
+#EXTINF:-113 group-title="Islami" tvg-logo="https://live.artvisi.or.id/logo/izzahtv.png",Izzah TV
+https://h1.intechmedia.net/intech/ch7.m3u8
+
+#EXTINF:-115 group-title="Islami" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgoJy69JQNvQPmcd_k90ZiSOIwGIm8o6Q4rA&usqp=CAU",MGI TV
+https://tv.rodja.live/tasik/ngrp:mgitv_all/chunklist_w2147180970_b1396000.m3u8
+
+#EXTINF:-115 group-title="Islami" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuXv2hLxQE7G6hNSIWsKbWa6E_n35hYDrDVw&usqp=CAU", Hidayah TV
+https://tv.rodja.live/hidayah/streaming/chunklist_w1269386482.m3u8
+
+#EXTINF:-116 group-title="Islami" tvg-logo="https://live.artvisi.or.id/logo/binbaztv.png",Binbaz TV
+https://h1.intechmedia.net/intech/ch22.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-0 tvg-name="TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8q2E5PU_yvTP8QXVVmzDZNFzXPhJIUyu4Uw&usqp=CAU" group-title="Islami", Tawaf TV
+https://liveanevia.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOnlw54T4z08Rdm2IM8yx4hb6_CSDnL-RU5g&usqp=CAU" group-title="Islami",Aswaja TV
+https://stream-05.sg1.dailymotion.com/sec(86G48EQSWKUUFPhHXEV5xo96iesE4y8fdZGapyRdHXohg00vnLZ_nfezzWQzxh91)/dm/3/x748iuo/s/live-1.m3u8
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19515939_ico.png?ts=1657341923" group-title="Islami", Sunnah TV
+http://m.live.net.sa:1935/live/sunnah/chunklist_w392231581.m3u8?t=Np4mInMxRGzNW1uytmrhHg&e=1657416801
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_alquran_small1.png?v=2.0.0.13" group-title="Islami", Quran TV
+http://rr2.dens.tv/s/s28/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Quran_TV
+
+
 ======== TV RELIGI ========
 
 #EXTINF:-1  tvg-name="MAKKAH TV" tvg-id="" tvg-logo="https://i.imgur.com/tFEQ4da.png" group-title="TV RELIGI" :http-referrer="",MAKKAH TV
